@@ -1,0 +1,28 @@
+.fixed-h{
+    height: 10px;
+}
+
+.loader{
+	padding: 10px 0 10px 0;
+}
+
+.calendar .loader{
+    display: none;
+}
+
+.yellow{
+	background-color: #FFDD00;
+}
+
+#training-chooser{
+	margin-top: 50px;
+    display:none;
+}
+
+#table-planning{
+	margin-top: 10px;
+}
+
+.calendar-form{
+	margin: 10px 0 10px 0;
+}

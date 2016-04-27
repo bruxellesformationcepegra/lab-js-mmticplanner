@@ -16,7 +16,7 @@ Sur cette page, vous devrez afficher toutes les formations en cours et à venir 
 
 Les données sont accessibles via http://mmtic.brufor.be/api/trainingcalendar
 
-Lors du choix d'une formation dans la liste déroulante, vous devrez afficher dans une table toutes les réservations existantes pour la formation choisie via http://mmtic.brufor.be8/api/training/ID_FORMATION_CHOISIE/bookings
+Lors du choix d'une formation dans la liste déroulante, vous devrez afficher dans une table toutes les réservations existantes pour la formation choisie via http://mmtic.brufor.be/api/training/ID_FORMATION_CHOISIE/bookings
 
 Affichez dans la table la **date** et le **local** de chaque réservation.
 
